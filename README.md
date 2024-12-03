@@ -9,23 +9,30 @@ Welcome to my profile! I am a **Data Analyst** with a passion for transforming r
 As a Data Analyst, I specialize in the following skills:
 
 ### 📊 **Data Visualization & Reporting**
-- **Excel** ![image](https://github.com/user-attachments/assets/ffda39fc-ee81-4e67-b9b9-69753135cff9)
+- **Excel** ![image](https://github.com/user-attachments/assets/6b22f671-bdfd-4c13-a740-880c40c2b913)
 
-- **Tableau** ![image](https://github.com/user-attachments/assets/cd1d2771-75dd-4755-b602-16323a838f71)
 
-- **Power BI** ![image](https://github.com/user-attachments/assets/665e7186-2cfe-4ae9-9ea7-80a0953f784e)
+- **Tableau** ![image](https://github.com/user-attachments/assets/7537168d-739a-43cf-8dbf-71618005b16e)
+
+
+- **Power BI** ![image](https://github.com/user-attachments/assets/7bf999b4-3818-470e-bd05-bedd2104149e)
+
 
 
 ### 💻 **Data Analysis & Programming**
-- **SQL** ![image](https://github.com/user-attachments/assets/337587a9-b400-4680-b836-2aef870b925c)
+- **SQL** ![image](https://github.com/user-attachments/assets/615803db-b73d-4336-86f9-21344e864b31)
 
-- **Python** ![image](https://github.com/user-attachments/assets/a89758f7-4937-4983-b04c-04ca08a1442c)
+
+- **Python** ![image](https://github.com/user-attachments/assets/f150dd3f-1c84-45b3-b006-4d3ff61a3a3f)
+
 
 
 ### 🔧 **Data Cleaning & Manipulation**
-- **Pandas** ![image](https://github.com/user-attachments/assets/cff3ab8a-59cd-4c6d-94ee-5a9bccbae2b7)
+- **Pandas** ![image](https://github.com/user-attachments/assets/082ad461-93b7-4e2b-b4c2-edae47a13461)
 
-- **Power Query** ![image](https://github.com/user-attachments/assets/aab3e2ba-e1e5-46d1-8ebd-575f4789218c)
+
+- **Power Query** ![image](https://github.com/user-attachments/assets/2500e5af-aad4-4842-992b-3116d8393c8e)
+
 
 
 ---
