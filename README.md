@@ -9,7 +9,7 @@ Welcome to my profile! I am a **Data Analyst** with a passion for transforming r
 As a Data Analyst, I specialize in the following skills:
 
 ### 📊 **Data Visualization & Reporting**
-- **Excel** ![image](https://github.com/user-attachments/assets/7cfc43a6-3090-4296-836d-7ecb604af531)
+- **Excel** ![image](https://github.com/user-attachments/assets/ffda39fc-ee81-4e67-b9b9-69753135cff9)
 
 - **Tableau** ![image](https://github.com/user-attachments/assets/cd1d2771-75dd-4755-b602-16323a838f71)
 
