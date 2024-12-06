@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I'm a data enthusiast and a beginner in the data s
 ## 📫 Contact Me
 
 - 💬 Feel free to reach out if you want to collaborate or share your knowledge with me!
-- **LinkedIn**: [Rana Ahmad](https://www.linkedin.com/in/rana-ahmad-yhh/)
+- **LinkedIn**: [Rana Ahmad](https://www.linkedin.com/in/ranaahmad1)
 
 ---
 
